@@ -3,12 +3,6 @@
 declare(strict_types=1);
 
 namespace Drago\Mvc1\Controllers;
-?>
-<head>
-<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
-<script type="text/javascript" src="script.js"></script>
-</head>
-<?php
 
 class UploadController {
 
