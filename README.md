@@ -10,5 +10,5 @@ išsaugoti transakcijų failų duomenis duomenų bazėje.
 Šiai užduočiai atlikti pabandžiau sukurti paprastą MVC dizaino principą atitinkančią failų struktūrą, panaudojau Composer įrankį automatiniam klasių importavimui, DotEnv biblioteką duomenų bazės prisijungimo duomenims saugoti,
 htacess failus ( nukreipti visas HTTP užklausas į index.php failą ir apsaugoti public aplanką slaptažodžiu). Prisijungi prie duomenų bazės panaudojau PDO biblioteką.
 
-Pradžioje užduotį atlikau asmeniniame virtualiame serveryje panaudojus XAMPP įrankį. Galutinį kodą patalpinau realiame serveryje čia:
+Pradžioje užduotį atlikau asmeniniame virtualiame serveryje panaudojus XAMPP įrankį. Galutinį kodą pritaikiau realiam serveriui ir patalpinau čia:
 http://dariusmolotokas.lt/budget/public/
