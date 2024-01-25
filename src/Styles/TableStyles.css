@@ -1,0 +1,28 @@
+table {
+    margin: auto;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    width: 80%;
+    border-collapse: collapse;
+    text-align: center;
+}
+table tr th, table tr td {
+    padding: 5px;
+    border: 1px #eee solid;
+}
+
+tfoot tr th, tfoot tr td {
+    font-size: 20px;
+}
+
+tfoot tr th {
+    text-align: right;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
