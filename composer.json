@@ -1,0 +1,17 @@
+{
+    "name": "drago/mvc1",
+    "description": "-",
+    "type": "project",
+    "license": "s",
+    "autoload": {
+        "psr-4": {
+            "Drago\\Mvc1\\": "src/",
+            "Drago\\Mvc1\\Controllers\\": "src/Controllers",
+            "Drago\\Mvc1\\Models\\": "src/Models"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "vlucas/phpdotenv": "^5.6@dev"
+    }
+}
